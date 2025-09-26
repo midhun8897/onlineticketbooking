@@ -20,7 +20,7 @@ const Header = () => {
 
   return (
     <header style={styles.header}>
-      <div style={styles.title}>MovieTickets</div>
+      <div style={styles.title}>Movie-Tickets</div>
       <nav style={styles.nav}>
         {!token ? (
           <>
